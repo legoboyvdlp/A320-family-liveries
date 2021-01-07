@@ -4,7 +4,7 @@
 	<sim>
 		<model>
 			<livery>
-				<name>British Airways (G-EUUC)</name>
+				<name>BAW British Airways (G-EUUC)</name>
 				<texture-fuselage>Liveries/A320/IAE/BAW-fuselage.png</texture-fuselage>
 				<texture-engine>Liveries/A320/IAE/BAW-engine.png</texture-engine>
 			</livery>
