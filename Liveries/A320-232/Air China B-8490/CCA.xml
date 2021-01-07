@@ -6,7 +6,7 @@
 			<livery>
 				<name>CCA Air China (B-8490)</name>
 				<texture-fuselage>Liveries/A320/IAE/CCA-fuselage.png</texture-fuselage>
-				<texture-engine>Liveries/A320/IAE/IAE-V2500-white.png</texture-engine>
+				<texture-engine>Liveries/A320/IAE/CCA-engine.png</texture-engine>
 			</livery>
 		</model>
 	</sim>
