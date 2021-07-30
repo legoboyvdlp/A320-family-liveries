@@ -4,7 +4,7 @@
 	<sim>
 		<model>
 			<livery>
-				<name>JBU jetBlue (N536JB)</name>
+				<name>jetBlue (N536JB)</name>
 				<texture-fuselage>Liveries/A320/IAE/JBU-fuselage.png</texture-fuselage>
 				<texture-engine>Liveries/A320/IAE/JBU-engine.png</texture-engine>
 			</livery>

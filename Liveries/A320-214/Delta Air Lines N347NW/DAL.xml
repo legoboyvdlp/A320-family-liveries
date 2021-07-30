@@ -4,7 +4,7 @@
 	<sim>
 		<model>
 			<livery>
-				<name>DAL Delta Air Lines (N347NW)</name>
+				<name>Delta Air Lines (N347NW)</name>
 				<texture-fuselage>Liveries/A320/CFM/DAL-fuselage.png</texture-fuselage>
 				<texture-engine>Liveries/A320/CFM/DAL-engine.png</texture-engine>
 			</livery>
