@@ -12,7 +12,7 @@
 
 7. The livery should be of reasonable quality, particularly, the livery should match up at UV boundaries with no mismatching.
 
-8. The description should be in this format: ICAO Airline Name (Extra Info). "Airways", "Airlines", or similar words may be omitted for brevity. For instance, "SAS Scandinavian (OY-KAM)".
+8. The description should be in this format: "Airline Name (Registration, Extra Info). For instance, "Qatar Airways (A7-AHW)"
 
 9. Liveries will be reviewed before being added by a contributor. If you disagree with a rejection, please speak to another contributor. 
 
