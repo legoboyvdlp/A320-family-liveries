@@ -7,6 +7,7 @@
 				<name>Lauda Europe (9H-LMG)</name>
 				<texture-fuselage>Liveries/A320/IAE/LDA-fuselage.png</texture-fuselage>
 				<texture-engine>Liveries/A320/IAE/LDA-engine.png</texture-engine>
+				<texture-placards>Fuselage/res/placards.png</texture-placards>
 			</livery>
 		</model>
 	</sim>

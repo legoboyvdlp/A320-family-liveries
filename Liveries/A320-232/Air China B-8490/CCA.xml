@@ -7,6 +7,7 @@
 				<name>Air China (B-8490)</name>
 				<texture-fuselage>Liveries/A320/IAE/CCA-fuselage.png</texture-fuselage>
 				<texture-engine>Liveries/A320/IAE/CCA-engine.png</texture-engine>
+				<texture-placards>Fuselage/res/placards.png</texture-placards>
 			</livery>
 		</model>
 	</sim>
