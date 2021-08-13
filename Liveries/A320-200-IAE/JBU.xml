@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name>jetBlue (N536JB)</name>
+				<texture-fuselage>JBU-fuselage.png</texture-fuselage>
+				<texture-engine>JBU-engine.png</texture-engine>
+				<texture-placards>Fuselage/res/placards.png</texture-placards>
+			</livery>
+		</model>
+	</sim>
+	
+	<options>
+		<engine-name type="string">V2527-A5</engine-name>
+		<model-number type="string">A320-232</model-number>
+		<EIS2 type="bool">1</EIS2>
+		<company-options>
+			<idle-factor>+0.0</idle-factor>
+			<perf-factor>+0.0</perf-factor>
+		</company-options>
+		<model-options>
+			<registration type="string">N536JB</registration>
+			<three-letter type="string">JBU</three-letter>
+			<two-letter type="string">B6</two-letter>
+			<sharklet type="bool">0</sharklet>
+			<wifi-aft type="bool">0</wifi-aft>
+			<wifi-fwd type="bool">1</wifi-fwd>
+		</model-options>
+	</options>
+</PropertyList>
