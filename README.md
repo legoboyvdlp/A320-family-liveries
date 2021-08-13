@@ -8,7 +8,7 @@
 
 5. We will only have one example of each distinct livery of an airline for each different model. Liveries with only small distinctions such as registration number or options will not be accepted. Historical liveries which are clearly distinct (e.g. Landor / Utopia / Union Flag for British Airways) are acceptable.
 
-6. Each livery must be created in 4096*4096 resolution of the paintkit. Lower and higher resolution versions may be accepted in addition to the 4K variant.
+6. Each livery must be created in 4096*4096 resolution of the paintkit or higher.
 
 7. The livery should be of reasonable quality, particularly, the livery should match up at UV boundaries with no mismatching.
 
@@ -19,3 +19,19 @@
 10. By asking to publish your livery on our repository, you agree to release your livery under the GNU GPL 2.0 license. You may not port liveries from another simulator without written permission to release under the GNU GPL 2.0 license from the author of the livery.
 
 11. Please also provide the .xcf paintkit, so the livery may be updated in future easily, and therefore does not get lost if any changes happen. 
+
+# Repo structure
+The .xcf source files live under `Sources/<variant>/<livery>/`.
+
+The final liveries are under `Liveries/<variant>/<resolution>/`.
+
+The .xml files belong into `Liveries/<variant>/`.
+
+## Notes on the canvas livery system.
+
+The A320 is the first to use the improved canvas livery system.
+
+Changes compared to the old livery system:
+* The .xml files only reference the file name, no longer the whole file path.
+* Each texture goes in the directory according to its size.
+* There may be multiple resolutions of the same texture. It gets picked by the system automatically.
