@@ -15,10 +15,11 @@
 8. The description should be in this format: "Airline Name (Registration, Extra Info). For instance, "Qatar Airways (A7-AHW)"
 
 9. Liveries will be reviewed before being added by a contributor. If you disagree with a rejection, please speak to another contributor. 
-
 10. By asking to publish your livery on our repository, you agree to release your livery under the GNU GPL 2.0 license. You may not port liveries from another simulator without written permission to release under the GNU GPL 2.0 license from the author of the livery.
 
 11. Please also provide the .xcf paintkit, so the livery may be updated in future easily, and therefore does not get lost if any changes happen. 
+
+12. Source files for engines and fuselage have to end on -engine.xcf and -fuselage.xcf respectively
 
 # Repo structure
 The .xcf source files live under `Sources/<variant>/<livery>/`.
