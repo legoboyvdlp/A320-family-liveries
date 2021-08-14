@@ -21,6 +21,10 @@
 
 12. Source files for engines and fuselage have to end on -engine.xcf and -fuselage.xcf respectively
 
+
+# Installation 
+Drag + drop the Liveries folder into your copy of the A320-family
+
 # Repo structure
 The .xcf source files live under `Sources/<variant>/<livery>/`.
 
