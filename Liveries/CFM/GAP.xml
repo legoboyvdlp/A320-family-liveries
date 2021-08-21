@@ -5,7 +5,7 @@
 		<model>
 			<livery>
 				<name>PAL Express (RP-C8397)</name>
-				<texture-fuselage>PAL-fuselage.png</texture-fuselage>
+				<texture-fuselage>GAP-fuselage.png</texture-fuselage>
 				<texture-engine>CFM56-white.png</texture-engine>
 				<texture-placards>Fuselage/res/placards.png</texture-placards>
 			</livery>
