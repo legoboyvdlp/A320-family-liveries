@@ -6,7 +6,7 @@
 			<livery>
 				<name>Turkish Airlines (TC-JUF)</name>
 				<texture-fuselage>THY-fuselage.png</texture-fuselage>
-				<texture-engine>V2500-white.png</texture-engine>
+				<texture-engine>IAE-V2500-white.png</texture-engine>
 				<texture-placards>Fuselage/res/placards.png</texture-placards>
 			</livery>
 		</model>
