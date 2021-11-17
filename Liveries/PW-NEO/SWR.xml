@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name>Swiss (HB-JDA)</name>
+				<texture-fuselage>SWR-fuselage.png</texture-fuselage>
+				<texture-engine>PW1127-white.png</texture-engine>
+				<logo>SWR.png</logo>
+				<texture-placards>Fuselage/res/placards.png</texture-placards>
+			</livery>
+		</model>
+	</sim>
+	
+	<options>
+		<engine-name type="string">PW1127G/P</engine-name>
+		<model-number type="string">A320-271N</model-number>
+		<EIS2 type="bool">1</EIS2>
+		<company-options>
+			<idle-factor>+0.0</idle-factor>
+			<perf-factor>+1.0</perf-factor>
+		</company-options>
+		<model-options>
+			<registration type="string">HB-JDA</registration>
+			<three-letter type="string">SWR</three-letter>
+			<two-letter type="string">LX</two-letter>
+			<sharklet type="bool">1</sharklet>
+			<wifi-aft type="bool">0</wifi-aft>
+			<wifi-fwd type="bool">0</wifi-fwd>
+		</model-options>
+	</options>
+</PropertyList>
