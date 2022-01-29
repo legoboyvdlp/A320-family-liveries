@@ -4,7 +4,7 @@
 	<sim>
 		<model>
 			<livery>
-				<name>PGT Pegasus (TC-NCN)</name>
+				<name>Pegasus (TC-NCN)</name>
 				<texture-fuselage>PGT-fuselage.png</texture-fuselage>
 				<texture-engine>PGT-engine.png</texture-engine>
 				<texture-placards>Fuselage/res/placards.png</texture-placards>
