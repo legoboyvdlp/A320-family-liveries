@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name>Pegasus (TC-DCE)</name>
+				<texture-fuselage>PGT-fuselage.png</texture-fuselage>
+				<texture-engine>PGT-engine.png</texture-engine>
+				<texture-placards>Fuselage/res/placards.png</texture-placards>
+			</livery>
+		</model>
+	</sim>
+	
+	<options>
+		<engine-name type="string">CFM56-5B6/3</engine-name>
+		<model-number type="string">A320-214</model-number>
+		<EIS2 type="bool">1</EIS2>
+		<company-options>
+			<idle-factor>+0.0</idle-factor>
+			<perf-factor>+0.0</perf-factor>
+		</company-options>
+		<model-options>
+			<registration type="string">TC-DCE</registration>
+			<three-letter type="string">PGT</three-letter>
+			<two-letter type="string">PC</two-letter>
+			<sharklet type="bool">1</sharklet>
+			<wifi-aft type="bool">0</wifi-aft>
+			<wifi-fwd type="bool">0</wifi-fwd>
+		</model-options>
+	</options>
+</PropertyList>
