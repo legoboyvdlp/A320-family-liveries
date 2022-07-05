@@ -20,7 +20,7 @@
 			<idle-factor>+0.0</idle-factor>
 			<perf-factor>+1.0</perf-factor>
 		</company-options>
-		<model-options
+		<model-options>
 			<registration type="string">C-FZQS</registration>
 			<three-letter type="string">ACA</three-letter>
 			<two-letter type="string">AC</two-letter>
