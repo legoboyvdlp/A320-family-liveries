@@ -5,8 +5,8 @@
 		<model>
 			<livery>
 				<name>Eurowings Europe (OE-IEU)</name>
-				<texture-fuselage>EWG-fuselage.png</texture-fuselage>
-				<texture-engine>EWG-engine.png</texture-engine>
+				<texture-fuselage>EWE-fuselage.png</texture-fuselage>
+				<texture-engine>EWE-engine.png</texture-engine>
 				<texture-placards>Fuselage/res/placards.png</texture-placards>
 			</livery>
 		</model>
