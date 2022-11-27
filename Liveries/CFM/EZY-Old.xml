@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name>EasyJet (G-EZTD)</name>
+				<texture-fuselage>EZY-Old-fuselage.png</texture-fuselage>
+				<texture-engine>EZY-Old-engine.png</texture-engine>
+				<texture-placards>Fuselage/res/placards.png</texture-placards>
+			</livery>
+		</model>
+	</sim>
+	
+	<options>
+		<engine-name type="string">CFM56-5B6/3</engine-name>
+		<model-number type="string">A320-216</model-number>
+		<EIS2 type="bool">1</EIS2>
+		<company-options>
+			<idle-factor>+0.0</idle-factor>
+			<perf-factor>+1.0</perf-factor>
+		</company-options>
+		<model-options>
+			<registration type="string">G-EZTD</registration>
+			<three-letter type="string">EZY</three-letter>
+			<two-letter type="string">u2</two-letter>
+			<sharklet type="bool">0</sharklet>
+			<wifi-aft type="bool">0</wifi-aft>
+			<wifi-fwd type="bool">0</wifi-fwd>
+		</model-options>
+	</options>
+</PropertyList>
