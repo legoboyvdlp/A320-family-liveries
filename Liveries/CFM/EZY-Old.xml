@@ -23,7 +23,7 @@
 		<model-options>
 			<registration type="string">G-EZTD</registration>
 			<three-letter type="string">EZY</three-letter>
-			<two-letter type="string">u2</two-letter>
+			<two-letter type="string">U2</two-letter>
 			<sharklet type="bool">0</sharklet>
 			<wifi-aft type="bool">0</wifi-aft>
 			<wifi-fwd type="bool">0</wifi-fwd>
